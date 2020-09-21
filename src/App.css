@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap");
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  background: #eee !important;
+}
+
+.calculate-form {
+  margin: 50px auto;
+}
+.calculate-form h1 {
+  margin: 30px auto;
+}
+.calculate-form h2 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.calculate-form button {
+  margin: 30px 5px;
+  width: 130px;
+}
+.calculate-form .form-control {
+  width: 100%;
+  margin: 0 auto;
+}
+.calculate-form .form-group {
+  margin: 10px auto;
+}
+.login-form {
+  margin: 100px auto;
+}
+.counter-label {
+  text-align: center;
+  padding: 50px 0;
+}
+.counter-label span {
+  font-weight: bold;
+  font-size: 110px;
+}
+.card-title {
+  padding: 30px 0;
+}
+.login-details {
+  text-align: center;
+}
+.card {
+  margin-bottom: 0;
+}
+nav.navbar {
+  margin: 50px 0;
+  background-color: #007bff !important;
+}
+.nav-item a {
+  color: #fff;
+  padding: 0 20px;
+}
+.navbar-nav {
+  text-align: center;
+  margin: 0 auto;
+}
